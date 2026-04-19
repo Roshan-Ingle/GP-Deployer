@@ -3,13 +3,14 @@
   "short_name": "GPD",
   "start_url": "/GPD/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#24292e",
   "theme_color": "#24292e",
   "icons": [
     {
-      "src": "https://avatars.githubusercontent.com/u/206359204?v=4",
+      "src": "<a href=\"https://imgbb.com/\"><img src=\"https://i.ibb.co/bMbbNk0x/images.png\" alt=\"images\" border=\"0\"></a>",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
